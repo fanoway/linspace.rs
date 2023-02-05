@@ -1,0 +1,14 @@
+[package]
+name = "linspacers"
+version = "0.1.0"
+edition = "2021"
+authors = ["FANOWAY"]
+description = "A rust equivilent to numpys linspace function"
+repository = "https://github.com/fanoway/linspacers"
+readme = "README.md"
+homepage = "https://github.com/fanoway/linspacers"
+license-file ="LICENSE"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
